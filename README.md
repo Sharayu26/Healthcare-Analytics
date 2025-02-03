@@ -61,3 +61,6 @@ The Power BI file consists of multiple report pages, each focusing on different 
 - **Advanced Patient Segmentation**: Machine learning models for personalized treatment plans.
 - **Enhanced Interactivity**: More drill-through options and self-service analytics.
 - **Mobile-Friendly Reports**: Optimized dashboard layouts for mobile access.
+
+  ## Dashboard-
+  <img src ="https://github.com/Sharayu26/Healthcare-Analytics/blob/main/Healthcare%20Analytics.png">
