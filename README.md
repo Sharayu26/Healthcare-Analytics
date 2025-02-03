@@ -63,4 +63,6 @@ The Power BI file consists of multiple report pages, each focusing on different 
 - **Mobile-Friendly Reports**: Optimized dashboard layouts for mobile access.
 
   ## Dashboard-
-  <img src ="https://github.com/Sharayu26/Healthcare-Analytics/blob/main/Healthcare%20Analytics.png">
+  <img src ="https://github.com/Sharayu26/Healthcare-Analytics/blob/main/Healthcare%20Analytics.png"><br><br>
+
+  <img src ="https://github.com/Sharayu26/Healthcare-Analytics/blob/main/Healthcare%20Provider.png">
