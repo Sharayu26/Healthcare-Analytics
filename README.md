@@ -1,10 +1,6 @@
 # Healthcare-Analytics
 Healthcare Provider Dashboard in Power Bi
 
-# Hospital Provider Dashboard
-![download (1)](https://github.com/user-attachments/assets/672de84e-4276-478e-93a4-8be4e30ea931)
-
-
 ## Overview
 The **Hospital Provider Dashboard** is a Power BI report designed to analyze hospital performance, patient care metrics, financial insights, and provider efficiency. This dashboard enables healthcare administrators, hospital executives, and analysts to make data-driven decisions for optimizing hospital operations and improving patient outcomes.
 
